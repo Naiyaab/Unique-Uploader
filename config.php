@@ -1,5 +1,5 @@
 <?php
 
-$db = new PDO("mysql:host=localhost;dbname=mydata","root","");
+$db = new PDO("mysql:host=localhost;dbname=project","root","bsut13k");
 
 ?>
