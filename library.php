@@ -9,6 +9,7 @@
  <body>
   <br /><br />
   <div class="container" style="width:900px;">
+    <h2 align
    <h3 align="center">Welcome to our media library where you can Upload and Download you files, you can also see what other users have uploaded that you can download</h3>
    <br />
    <div align="right">
