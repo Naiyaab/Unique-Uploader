@@ -6,6 +6,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
  </head>
+
  <body>
   <br /><br />
   <div class="container" style="width:900px;">
@@ -14,6 +15,10 @@
    <br />
    <div align="right">
     <button type="button" name="add" id="add" class="btn btn-success">Add</button>
+    <p>.JPEG, .PNG, .GIF Only!</p>
+   </div>
+   <div align="left">
+    <a href="index.html" class="btn btn-default btn-lg">Homepage</a>
    </div>
    <br />
    <div id="image_data">
